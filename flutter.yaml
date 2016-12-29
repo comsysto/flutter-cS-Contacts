@@ -1,0 +1,45 @@
+name: csContactsExt
+uses-material-design: true
+assets:
+  - assets/contacts.json
+  - assets/logo-name.png
+  - assets/mixees/August.Berger.png
+  - assets/mixees/Alina.Bingemer.png
+  - assets/mixees/Imma.Borchardt.png
+  - assets/mixees/Bruni.Chmel.png
+  - assets/mixees/Josef.Drekmann.png
+  - assets/mixees/Franz.Ehle.png
+  - assets/mixees/Max.Gaudecker.png
+  - assets/mixees/Heinrich.Goebel.png
+  - assets/mixees/Willi.Goebel.png
+  - assets/mixees/Franz.Hauser.png
+  - assets/mixees/Sabine.Hintze.png
+  - assets/mixees/Herbert.Hofmann.png
+  - assets/mixees/Georg.Kalkhoff.png
+  - assets/mixees/August.Kinz.png
+  - assets/mixees/Josepha.Klemt.png
+  - assets/mixees/Sieglinde.Klier.png
+  - assets/mixees/Friedrich.Kunze.png
+  - assets/mixees/Teresia.Laschet.png
+  - assets/mixees/Amelinda.Lau.png
+  - assets/mixees/Margarete.Lippolt.png
+  - assets/mixees/Erma.Meinhardt.png
+  - assets/mixees/Lore.Mevissen.png
+  - assets/mixees/Bert.Mohrmann.png
+  - assets/mixees/Kurt.Morawietz.png
+  - assets/mixees/Erwin.Neumann.png
+  - assets/mixees/Wilhelm.Pflugbeil.png
+  - assets/mixees/Erich.Pfreundtner.png
+  - assets/mixees/Viktor.Philipp.png
+  - assets/mixees/Philipp.Planitz.png
+  - assets/mixees/Luitgard.Plesch.png
+  - assets/mixees/Ottilie.Rebane.png
+  - assets/mixees/Gustav.Scheibe.png
+  - assets/mixees/Günter.Schkecht.png
+  - assets/mixees/Hansi.Schkecht.png
+  - assets/mixees/Walter.Stams.png
+  - assets/mixees/Irmtrud.Stern.png
+  - assets/mixees/Uschi.Streil.png
+  - assets/mixees/Erich.Voshage.png
+  - assets/mixees/Rainer.Wittmann.png
+  - assets/mixees/Wilhelm.Zwern.png

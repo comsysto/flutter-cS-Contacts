@@ -1,0 +1,502 @@
+[
+  {
+    "last-name": "Berger",
+    "first-name": "August",
+    "office": "935 951 4562",
+    "mobile": "",
+    "private": "572 811 3046",
+    "e-mail": "August.Berger",
+    "birthday": "21.03.",
+    "avatar": true
+  },
+  {
+    "last-name": "Bingemer",
+    "first-name": "Alina",
+    "office": "",
+    "mobile": "661 632 1971",
+    "private": "685 993 7886",
+    "e-mail": "Alina.Bingemer",
+    "birthday": "07.03.",
+    "avatar": true
+  },
+  {
+    "last-name": "Borchardt",
+    "first-name": "Imma",
+    "office": "",
+    "mobile": "",
+    "private": "607 525 8554",
+    "e-mail": "Imma.Borchardt",
+    "birthday": "29.08.",
+    "avatar": true
+  },
+  {
+    "last-name": "Burr",
+    "first-name": "Franziska",
+    "office": "",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Franziska.Burr",
+    "birthday": "06.06.",
+    "avatar": false
+  },
+  {
+    "last-name": "Chmel",
+    "first-name": "Bruni",
+    "office": "277 380 5966",
+    "mobile": "",
+    "private": "949 206 6541",
+    "e-mail": "Bruni.Chmel",
+    "birthday": "11.04.",
+    "avatar": true
+  },
+  {
+    "last-name": "Drekmann",
+    "first-name": "Josef",
+    "office": "893 759 0364",
+    "mobile": "499 167 5571",
+    "private": "",
+    "e-mail": "Josef.Drekmann",
+    "birthday": "12.09.",
+    "avatar": true
+  },
+  {
+    "last-name": "Ehle",
+    "first-name": "Franz",
+    "office": "",
+    "mobile": "735 985 4838",
+    "private": "",
+    "e-mail": "Franz.Ehle",
+    "birthday": "23.05.",
+    "avatar": true
+  },
+  {
+    "last-name": "Gaudecker",
+    "first-name": "Max",
+    "office": "800 373 3951",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Max.Gaudecker",
+    "birthday": "07.11.",
+    "avatar": true
+  },
+  {
+    "last-name": "Geissler",
+    "first-name": "Hilde",
+    "office": "",
+    "mobile": "",
+    "private": "789 675 5262",
+    "e-mail": "Hilde.Geissler",
+    "birthday": "22.08.",
+    "avatar": false
+  },
+  {
+    "last-name": "Goebel",
+    "first-name": "Heinrich",
+    "office": "785 354 4735",
+    "mobile": "888 184 0444",
+    "private": "",
+    "e-mail": "Heinrich.Goebel",
+    "birthday": "01.08.",
+    "avatar": true
+  },
+  {
+    "last-name": "Goebel",
+    "first-name": "Willi",
+    "office": "518 651 0320",
+    "mobile": "259 128 5177",
+    "private": "",
+    "e-mail": "Willi.Goebel",
+    "birthday": "08.02.",
+    "avatar": false
+  },
+  {
+    "last-name": "Hauser",
+    "first-name": "Franz",
+    "office": "810 701 1395",
+    "mobile": "",
+    "private": "141 633 3507",
+    "e-mail": "Franz.Hauser",
+    "birthday": "30.05.",
+    "avatar": true
+  },
+  {
+    "last-name": "Heldt",
+    "first-name": "Krimhilde",
+    "office": "765 630 0949",
+    "mobile": "697 289 2176",
+    "private": "",
+    "e-mail": "Krimhilde.Heldt",
+    "birthday": "26.09.",
+    "avatar": false
+  },
+  {
+    "last-name": "Hintze",
+    "first-name": "Sabine",
+    "office": "",
+    "mobile": "652 978 2915",
+    "private": "",
+    "e-mail": "Sabine.Hintze",
+    "birthday": "05.12.",
+    "avatar": true
+  },
+  {
+    "last-name": "Hofmann",
+    "first-name": "Herbert",
+    "office": "",
+    "mobile": "",
+    "private": "919 385 3691",
+    "e-mail": "Herbert.Hofmann",
+    "birthday": "08.08.",
+    "avatar": true
+  },
+  {
+    "last-name": "Kaestner",
+    "first-name": "Hans",
+    "office": "",
+    "mobile": "",
+    "private": "297 143 0524",
+    "e-mail": "Hans.Kaestner",
+    "birthday": "18.07.",
+    "avatar": false
+  },
+  {
+    "last-name": "Kalkhoff",
+    "first-name": "Georg",
+    "office": "",
+    "mobile": "646 381 3876",
+    "private": "",
+    "e-mail": "Georg.Kalkhoff",
+    "birthday": "20.06.",
+    "avatar": true
+  },
+  {
+    "last-name": "Kinz",
+    "first-name": "August",
+    "office": "",
+    "mobile": "660 605 1560",
+    "private": "438 416 2348",
+    "e-mail": "August.Kinz",
+    "birthday": "28.03.",
+    "avatar": true
+  },
+  {
+    "last-name": "Klemt",
+    "first-name": "Josepha",
+    "office": "878 690 9554",
+    "mobile": "646 706 8023",
+    "private": "",
+    "e-mail": "Josepha.Klemt",
+    "birthday": "19.09.",
+    "avatar": true
+  },
+  {
+    "last-name": "Klier",
+    "first-name": "Sieglinde",
+    "office": "604 889 5651",
+    "mobile": "",
+    "private": "607 573 0055",
+    "e-mail": "Sieglinde.Klier",
+    "birthday": "12.12.",
+    "avatar": true
+  },
+  {
+    "last-name": "Koll",
+    "first-name": "Verena",
+    "office": "912 754 2905",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Verena.Koll",
+    "birthday": "04.01.",
+    "avatar": false
+  },
+  {
+    "last-name": "Kunze",
+    "first-name": "Friedrich",
+    "office": "813 993 3061",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Friedrich.Kunze",
+    "birthday": "13.06.",
+    "avatar": false
+  },
+  {
+    "last-name": "Laschet",
+    "first-name": "Teresia",
+    "office": "",
+    "mobile": "267 869 6100",
+    "private": "741 801 7942",
+    "e-mail": "Teresia.Laschet",
+    "birthday": "19.12.",
+    "avatar": true
+  },
+  {
+    "last-name": "Lau",
+    "first-name": "Amelinda",
+    "office": "",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Amelinda.Lau",
+    "birthday": "14.03.",
+    "avatar": true
+  },
+  {
+    "last-name": "Lippolt",
+    "first-name": "Margarete",
+    "office": "",
+    "mobile": "",
+    "private": "176 737 6669",
+    "e-mail": "Margarete.Lippolt",
+    "birthday": "24.10.",
+    "avatar": true
+  },
+  {
+    "last-name": "Meinhardt",
+    "first-name": "Erma",
+    "office": "",
+    "mobile": "",
+    "private": "299 123 3904",
+    "e-mail": "Erma.Meinhardt",
+    "birthday": "02.05.",
+    "avatar": true
+  },
+  {
+    "last-name": "Mevissen",
+    "first-name": "Lore",
+    "office": "413 784 2226",
+    "mobile": "190 996 6068",
+    "private": "",
+    "e-mail": "Lore.Mevissen",
+    "birthday": "10.10.",
+    "avatar": true
+  },
+  {
+    "last-name": "Müller",
+    "first-name": "Hannah",
+    "office": "",
+    "mobile": "",
+    "private": "123 474 5381",
+    "e-mail": "Hannah.Müller",
+    "birthday": "04.04.",
+    "avatar": false
+  },
+  {
+    "last-name": "Morawietz",
+    "first-name": "Kurt",
+    "office": "970 258 0932",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Kurt.Morawietz",
+    "birthday": "03.10.",
+    "avatar": true
+  },
+  {
+    "last-name": "Neumann",
+    "first-name": "Erwin",
+    "office": "",
+    "mobile": "378 462 5425",
+    "private": "381 633 8478",
+    "e-mail": "Erwin.Neumann",
+    "birthday": "16.05.",
+    "avatar": true
+  },
+  {
+    "last-name": "Pflugbeil",
+    "first-name": "Wilhelm",
+    "office": "666 923 0615",
+    "mobile": "556 191 1818",
+    "private": "",
+    "e-mail": "Wilhelm.Pflugbeil",
+    "birthday": "25.01.",
+    "avatar": true
+  },
+  {
+    "last-name": "Pfreundtner",
+    "first-name": "Erich",
+    "office": "",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Erich.Pfreundtner",
+    "birthday": "18.04.",
+    "avatar": true
+  },
+  {
+    "last-name": "Philipp",
+    "first-name": "Viktor",
+    "office": "",
+    "mobile": "391 118 2015",
+    "private": "161 674 7768",
+    "e-mail": "Viktor.Philipp",
+    "birthday": "11.01.",
+    "avatar": true
+  },
+  {
+    "last-name": "Planitz",
+    "first-name": "Philipp",
+    "office": "",
+    "mobile": "",
+    "private": "796 344 0116",
+    "e-mail": "Philipp.Planitz",
+    "birthday": "28.11.",
+    "avatar": true
+  },
+  {
+    "last-name": "Plesch",
+    "first-name": "Luitgard",
+    "office": "235 907 2946",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Luitgard.Plesch",
+    "birthday": "17.10.",
+    "avatar": true
+  },
+  {
+    "last-name": "Rebane",
+    "first-name": "Ottilie",
+    "office": "393 715 0893",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Ottilie.Rebane",
+    "birthday": "21.11.",
+    "avatar": true
+  },
+  {
+    "last-name": "Rein",
+    "first-name": "Ermintrude",
+    "office": "",
+    "mobile": "",
+    "private": "138 161 1654",
+    "e-mail": "Ermintrude.Rein",
+    "birthday": "09.09.",
+    "avatar": false
+  },
+  {
+    "last-name": "Scheibe",
+    "first-name": "Gustav",
+    "office": "",
+    "mobile": "",
+    "private": "495 795 6287",
+    "e-mail": "Gustav.Scheibe",
+    "birthday": "11.07.",
+    "avatar": true
+  },
+  {
+    "last-name": "Schkecht",
+    "first-name": "Günter",
+    "office": "",
+    "mobile": "428 887 3244",
+    "private": "",
+    "e-mail": "Günter.Schkecht",
+    "birthday": "04.07.",
+    "avatar": true
+  },
+  {
+    "last-name": "Schkecht",
+    "first-name": "Hansi",
+    "office": "",
+    "mobile": "",
+    "private": "643 158 5309",
+    "e-mail": "Hansi.Schkecht",
+    "birthday": "25.07.",
+    "avatar": true
+  },
+  {
+    "last-name": "Stams",
+    "first-name": "Walter",
+    "office": "",
+    "mobile": "898 935 1505",
+    "private": "230 801 5343",
+    "e-mail": "Walter.Stams",
+    "birthday": "18.01.",
+    "avatar": true
+  },
+  {
+    "last-name": "Stern",
+    "first-name": "Irmtrud",
+    "office": "131 331 7580",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Irmtrud.Stern",
+    "birthday": "05.09.",
+    "avatar": true
+  },
+  {
+    "last-name": "Streil",
+    "first-name": "Uschi",
+    "office": "",
+    "mobile": "338 135 1321",
+    "private": "541 642 7102",
+    "e-mail": "Uschi.Streil",
+    "birthday": "26.12.",
+    "avatar": true
+  },
+  {
+    "last-name": "Ullrich",
+    "first-name": "Minna",
+    "office": "358 649 1835",
+    "mobile": "",
+    "private": "205 358 4489",
+    "e-mail": "Minna.Ullrich",
+    "birthday": "14.11.",
+    "avatar": false
+  },
+  {
+    "last-name": "Valtiner",
+    "first-name": "Gretel",
+    "office": "",
+    "mobile": "542 632 0009",
+    "private": "",
+    "e-mail": "Gretel.Valtiner",
+    "birthday": "27.06.",
+    "avatar": false
+  },
+  {
+    "last-name": "Volkmann",
+    "first-name": "Hilda",
+    "office": "",
+    "mobile": "",
+    "private": "",
+    "e-mail": "Hilda.Volkmann",
+    "birthday": "15.08.",
+    "avatar": false
+  },
+  {
+    "last-name": "Voshage",
+    "first-name": "Erich",
+    "office": "",
+    "mobile": "804 951 3028",
+    "private": "",
+    "e-mail": "Erich.Voshage",
+    "birthday": "25.04.",
+    "avatar": true
+  },
+  {
+    "last-name": "Wittmann",
+    "first-name": "Rainer",
+    "office": "733 881 7411",
+    "mobile": "410 929 0766",
+    "private": "208 136 4130",
+    "e-mail": "Rainer.Wittmann",
+    "birthday": "13.02.",
+    "avatar": true
+  },
+  {
+    "last-name": "Zeller",
+    "first-name": "Marlene",
+    "office": "322 425 2499",
+    "mobile": "",
+    "private": "859 923 2011",
+    "e-mail": "Marlene.Zeller",
+    "birthday": "31.10.",
+    "avatar": false
+  },
+  {
+    "last-name": "Zwern",
+    "first-name": "Wilhelm",
+    "office": "",
+    "mobile": "187 609 3509",
+    "private": "717 579 1881",
+    "e-mail": "Wilhelm.Zwern",
+    "birthday": "01.02.",
+    "avatar": true
+  }
+]
